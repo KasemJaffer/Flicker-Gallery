@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flicker Gallery</string>
+    <string name="image_trans_name">feed_image</string>
+    <string name="retry">RETRY</string>
+</resources>
